@@ -1,0 +1,11 @@
+D:\C#\BT2-ThayPhuong\obj\Debug\BT2-ThayPhuong.csprojAssemblyReference.cache
+D:\C#\BT2-ThayPhuong\obj\Debug\BT2_ThayPhuong.Form1.resources
+D:\C#\BT2-ThayPhuong\obj\Debug\BT2_ThayPhuong.Form2.resources
+D:\C#\BT2-ThayPhuong\obj\Debug\BT2_ThayPhuong.Properties.Resources.resources
+D:\C#\BT2-ThayPhuong\obj\Debug\BT2-ThayPhuong.csproj.GenerateResource.cache
+D:\C#\BT2-ThayPhuong\obj\Debug\BT2-ThayPhuong.csproj.CoreCompileInputs.cache
+D:\C#\BT2-ThayPhuong\bin\Debug\BT2-ThayPhuong.exe.config
+D:\C#\BT2-ThayPhuong\bin\Debug\BT2-ThayPhuong.exe
+D:\C#\BT2-ThayPhuong\bin\Debug\BT2-ThayPhuong.pdb
+D:\C#\BT2-ThayPhuong\obj\Debug\BT2-ThayPhuong.exe
+D:\C#\BT2-ThayPhuong\obj\Debug\BT2-ThayPhuong.pdb
